@@ -1,0 +1,6 @@
+{
+  "name": "Tuya Meter Toolkit Orange Pi 1g h3",
+  "description": "A utility to generate Python Modbus scripts for Ubuntu/Linux, simulate register readings, and decode hex frames based on standard electrical meter maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
